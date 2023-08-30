@@ -12,6 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "My First Android Project"
-include ':app'
-include ':app'
+
+rootProject.name = "ComposeText"
+include(":app")
+ 

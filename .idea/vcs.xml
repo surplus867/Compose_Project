@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AsteroidRadar" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/DistanceTrackerApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/EasyFood" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/FavDish" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/FoodyApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GeofenceApplication" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GoogleMapsDemo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MVVMNewsApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MotionLayoutDemo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PagingCourse" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Quizzle" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/RetrofitTest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/RowsandColumns" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ToDoApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/boxLayout" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/supersriptText" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/textCustomization" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/textSelection" vcs="Git" />
+    <mapping directory="" vcs="Git" />
   </component>
 </project>
